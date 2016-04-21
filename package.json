@@ -5,7 +5,7 @@
 	"maintainers": [
 		"ieb <1@wa.vg>"
 	],
-	"license": "GNU GPLv3",
+	"license": "GPL-3.0",
 	"repository": "ieb/edendl",
 	"dependencies": {
 		"sanitize-filename": "*",
@@ -15,6 +15,7 @@
 		"prompt": "*"
 	},
 	"scripts": {
-		"start": "node downloader.js"
+		"start": "node dl.js",
+		"start --simple": "node dl.lite.js"
 	}
 }
