@@ -5,7 +5,7 @@
 	"maintainers": [
 		"ieb <1@wa.vg>"
 	],
-	"license": "MIT",
+	"license": "GNU GPLv3",
 	"repository": "ieb/edendl",
 	"dependencies": {
 		"sanitize-filename": "*",
