@@ -1,0 +1,20 @@
+{
+	"name": "edendl",
+	"version": "8.4.0",
+	"description": "A Downloader for eden.sysu.edu.cn Projects",
+	"maintainers": [
+		"ieb <1@wa.vg>"
+	],
+	"license": "MIT",
+	"repository": "ieb/edendl",
+	"dependencies": {
+		"sanitize-filename": "*",
+		"request": "*",
+		"mkdirp": "*",
+		"jsdom": "*",
+		"prompt": "*"
+	},
+	"scripts": {
+		"start": "node downloader.js"
+	}
+}
