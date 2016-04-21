@@ -2,7 +2,7 @@
 
 * Eden Assignment Batch Downloader in Node.js
 * Downloading All Unfinished Assignments on [eden.sysu.edu.cn](http://eden.sysu.edu.cn/)
-* Generate Dev-C++ Compatible Project Files Automatically
+* Generate Dev-C++ Compatible Project Automatically
 * License: GPL v3
 
 =======
