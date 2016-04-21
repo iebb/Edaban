@@ -31,20 +31,19 @@ To Compile using ``enclose``:
 
 	npm install
 	npm install -g enclose
-	enclose downloader.js
+	enclose dl.js
 	
 =======
 ## Source
 
 Need [node.js](https://nodejs.org/en/ "Node.js") to run. [[download v5.10.1 for windows]](https://nodejs.org/dist/v5.10.1/node-v5.10.1-x64.msi)
 
+Install Dependencies: ``npm install`` (one-time).
 
-Windows: ``npm install && npm start``, or simply use ``run.bat``.
+Run: ``npm start`` or ``node dl.js``.
 
-Linux / Mac OS: ``npm install && npm start``.
+#### Windows Alternative
 
-Note:
+Install Dependencies: ``install.bat`` (one-time).
 
-``npm install`` is only for installing dependencies so you can just use ``npm start`` for the next time.
-
-For Windows users there's a ``run.bat`` does ``npm install && npm start``.
+Run: ``run.bat``.
