@@ -4,6 +4,7 @@
 * Downloading All Unfinished Assignments on [eden.sysu.edu.cn](http://eden.sysu.edu.cn/)
 * Generate Dev-C++ Compatible Project Automatically
 * License: GPL v3
+* Inspired by https://github.com/DaddyTrap/eden_clone_codes/
 
 =======
 
